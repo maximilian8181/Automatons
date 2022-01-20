@@ -20,7 +20,4 @@ to work properly, there must always be one whitespace after the string in the in
 
 Example:
 ABC=(340%2)+(12-C;_
-        ^         ^
-        |         |
-        |         |
-      String      |___ Whitespace (illustrated with the "_" character)
+        String    Whitespace (illustrated with the "_" character)
