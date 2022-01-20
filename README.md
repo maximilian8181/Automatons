@@ -19,5 +19,4 @@ and made some changes and additions to it. There is only one little detail. For 
 to work properly, there must always be one whitespace after the string in the input file.
 
 Example:
-ABC=(340%2)+(12-C;_
-        String    Whitespace (illustrated with the "_" character)
+ABC=(340%2)+(12-C;_ <------ Whitespace (illustrated with the "_" character)
